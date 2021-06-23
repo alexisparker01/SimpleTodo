@@ -28,7 +28,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [Kap](https://getkap.co/).
+GIF created with [LiceCap](https://www.macupdate.com/app/mac/49461/licecap).
 
 ## Notes
 
